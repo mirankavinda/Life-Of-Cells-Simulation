@@ -55,7 +55,7 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 
 - The Game of Life rules were devised by John Conway.
 
-- Special thanks to TechwiTim for their tutorial on John Conway's Game of Life using Python and Pygame, which served as an inspiration for this project.
+- Special thanks to TechwithTim for their tutorial on John Conway's Game of Life using Python and Pygame, which served as an inspiration for this project.
 
 
 
