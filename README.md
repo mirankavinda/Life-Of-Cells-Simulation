@@ -17,12 +17,12 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 
 - Click on cells to toggle their state between alive and dead.
 - Press the spacebar to start or pause the simulation.
-- Press 'c' to clear the grid and reset it to a random initial state.
-- Press 'g' to generate a random pattern of living cells on the grid.
+- Press `c` to clear the grid and reset it to a random initial state.
+- Press `g` to generate a random pattern of living cells on the grid.
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Pygame library
 
 ## Usage
@@ -35,22 +35,27 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 2. Navigate to the project directory:
    `cd game-of-life`
 
-3. Install the required dependencies (Pygame):
-   ``pip install pygame``
+4. Install the required dependencies (Pygame):
+   `pip install pygame`
 
-4. Run the simulation:
-   `python life-of-cells.py
+5. Run the simulation:
+   `python life-of-cells.py`
 
 ## Controls
 
--`Left Mouse Button`: Toggle the state of individual cells (alive/dead).
--`Spacebar`: Start or pause the simulation.
--`c` Key: Clear the grid and reset it to a random initial state.
--`g` Key: Generate a random pattern of living cells on the grid.
+- `Left Mouse Button`: Toggle the state of individual cells (alive/dead).
+
+- `Spacebar`: Start or pause the simulation.
+
+- `c` Key: Clear the grid and reset it to a random initial state.
+
+- `g` Key: Generate a random pattern of living cells on the grid.
 
 ## Credits
--The Game of Life rules were devised by John Conway.
--Special thanks to TechwiTim for their tutorial on John Conway's Game of Life using Python and Pygame, which served as an inspiration for this project.
+
+- The Game of Life rules were devised by John Conway.
+
+- Special thanks to TechwiTim for their tutorial on John Conway's Game of Life using Python and Pygame, which served as an inspiration for this project.
 
 
 
