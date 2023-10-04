@@ -2,7 +2,7 @@
 
 This is a simple implementation of Conway's Game of Life using the pygame library in Python.
 
-![Game of Life Demo](game_of_life_demo.gif)
+![game_of_life_demo](https://github.com/mirankavinda/Life-Of-Cells-Simulation/assets/49610302/f6adcb0d-68a9-4cd7-a07f-ed3c4c7dbeac)
 
 ## Description
 
